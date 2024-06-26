@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/l4FGrXkQwPwzP0onW/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -17,14 +17,14 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"/>
+I am a passionate and innovative Full Stack Developer with a strong foundation in software development and a proven track record of delivering robust, scalable web applications. With expertise in both front-end and back-end technologies, I enjoy tackling complex problems and working on exciting projects. 
 
-- 🔭 I’m currently working on my latest project
-- 🌱 I’m learning advanced JavaScript frameworks
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karim-khalil-3390951b3/)
-- ⚡ Fun fact: I love solving puzzles and coding challenges
+- 🔭 Currently spearheading the development of a web app using D3.js, Flask, and PostgreSQL at UBC.
+- 🌱 Expanding my knowledge in advanced JavaScript frameworks and backend technologies.
+- 👯 Open to collaboration on open source projects and exciting tech initiatives.
+- 💬 Feel free to ask me about anything tech-related or discuss new ideas.
+- 📫 Reach me at: [Karim102@student.ubc.ca](mailto:Karim102@student.ubc.ca)
+- ⚡ Fun fact: I love solving puzzles, coding challenges, and mentoring junior developers.
 
 ---
 
@@ -37,6 +37,13 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/2
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 
 ---
@@ -61,17 +68,14 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/2
   <a href="https://www.linkedin.com/in/karim-khalil-3390951b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:karim.khalil@example.com" target="_blank">
+  <a href="mailto:Karim102@student.ubc.ca" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/karimkhalil33" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vQXJ6qwDqH52IJm/giphy.gif" width="300" height="200"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" height="200"/>
 </div>
