@@ -31,7 +31,7 @@ I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/2
 ### :fire: My Stats :
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimKhalil33&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimKhalil33&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="Top Langs"/>
   </a>
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=KarimKhalil33&theme=dark&background=000000" alt="GitHub Streak"/>
