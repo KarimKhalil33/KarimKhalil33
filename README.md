@@ -4,7 +4,7 @@
 
 ---
 ### 👨‍💻 About Me :
-I am a passionate and innovative Full Stack Developer with a strong foundation in software development and a proven track record of delivering robust, scalable web applications. With expertise in both front-end and back-end technologies, I enjoy tackling complex problems and working on exciting projects. 
+I am a passionate and innovative Software Developer with a strong foundation in software development and a proven track record of delivering robust, scalable web applications. With expertise in both front-end and back-end technologies, I enjoy tackling complex problems and working on exciting projects. 
 
 - 🔭 Currently spearheading the development of a web app using D3.js, Flask, and PostgreSQL at UBC.
 - 🌱 Expanding my knowledge in advanced JavaScript frameworks and backend technologies.
