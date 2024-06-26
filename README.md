@@ -10,9 +10,6 @@
 
 <h1 align="center">Hi there, I'm Karim Khalil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarimKhalil33&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
 ---
 
@@ -74,8 +71,3 @@ I am a passionate and innovative Full Stack Developer with a strong foundation i
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200"/>
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" height="200"/>
-</div>
