@@ -8,8 +8,11 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm Karim and welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm Karim Khalil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarimKhalil33&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 ---
 
