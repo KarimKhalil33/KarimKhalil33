@@ -1,10 +1,3 @@
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/karim-khalil-3390951b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <h1 align="center">Hi there, I'm Karim and welcome to my GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 
