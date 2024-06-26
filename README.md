@@ -21,10 +21,10 @@ I am a passionate and innovative Full Stack Developer with a strong foundation i
 
 - 🔭 Currently spearheading the development of a web app using D3.js, Flask, and PostgreSQL at UBC.
 - 🌱 Expanding my knowledge in advanced JavaScript frameworks and backend technologies.
-- 👯 Open to collaboration on open source projects and exciting tech initiatives.
+- 🫡 Open to collaboration on open-source projects and exciting tech initiatives.
 - 💬 Feel free to ask me about anything tech-related or discuss new ideas.
 - 📫 Reach me at: [Karim102@student.ubc.ca](mailto:Karim102@student.ubc.ca)
-- ⚡ Fun fact: I love solving puzzles, coding challenges, and mentoring junior developers.
+- ⚡ Fun fact: I love solving coding challenges, learning new activities, and mentoring junior developers!
 
 ---
 
