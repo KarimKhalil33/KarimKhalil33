@@ -6,13 +6,6 @@
 ### 👨‍💻 About Me :
 I am a passionate and innovative Software Developer with a strong foundation in software development and a proven track record of delivering robust, scalable web applications. With expertise in both front-end and back-end technologies, I enjoy tackling complex problems and working on exciting projects. 
 
-- 🔭 Currently spearheading the development of a web app using D3.js, Flask, and PostgreSQL at UBC.
-- 🌱 Expanding my knowledge in advanced JavaScript frameworks and backend technologies.
-- 🫡 Open to collaboration on open-source projects and exciting tech initiatives.
-- 💬 Feel free to ask me about anything tech-related or discuss new ideas.
-- 📫 Reach me at: [Karim102@student.ubc.ca](mailto:Karim102@student.ubc.ca)
-- ⚡ Fun fact: I love solving coding challenges, learning new activities, and mentoring junior developers!
-
 ---
 
 ### 🛠️ Technologies & Tools :
