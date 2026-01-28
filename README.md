@@ -33,12 +33,6 @@ I am a passionate and innovative Software Developer with a strong foundation in 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimKhalil33&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook" alt="Top Langs" width="400"/>
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=KarimKhalil33&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KarimKhalil33&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  </a>
 </div>
 
 ---
